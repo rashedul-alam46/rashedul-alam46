@@ -1,7 +1,7 @@
 
 ## 👨‍💻 Welcome to My Code World!
 
-Passionate Full Stack / Backend-focused Software Engineer specializing in **.NET, SQL Server, and cloud-based solutions**. Experienced in building scalable, enterprise-grade applications, solving complex business problems, and turning ideas into robust software solutions.
+Passionate backend-focused Full Stack Software Engineer specializing in **.NET, SQL Server, and cloud-based solutions**. Experienced in building scalable, enterprise-grade applications, solving complex business problems, and turning ideas into robust software solutions.
 
 🔍 **Currently open to work** – if you're looking for a backend, full-stack, or technical leadership roles, let’s connect!
 
