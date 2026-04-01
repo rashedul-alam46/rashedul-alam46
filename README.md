@@ -25,8 +25,7 @@ Passionate Full Stack / Backend-focused Software Engineer specializing in **.NET
 
 ## How to reach me:
 - Blog: http://cybarlab.com
-- GitHub: https://github.com/rashedulalam46
-- LinkedIn: https://www.linkedin.com/in/rashedulalam46
+- GitHub: https://github.com/rashedul-alam46
 - Email: rashed464[at]outlook.com
 
 
