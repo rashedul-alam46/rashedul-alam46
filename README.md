@@ -14,7 +14,7 @@ Passionate backend-focused Full Stack Software Engineer specializing in **.NET, 
 - **APIs & Integrations:** REST, GraphQL, gRPC, Google Maps, PayPal, Authorize.net
 - **Reporting & ETL:** SSRS, SSIS, JasperReports, Google Chart, Highcharts
 - **Cloud:** Microsoft Azure, CI/CD pipelines, Azure DevOps
--  **Familiar With:** Python, Go, Node.js, Agile, Jira, Leveraging AI tools (ChatGPT, Copilot)
+-  **Familiar With:** Python, Node.js, Agile, Jira, Leveraging AI tools (ChatGPT, Copilot)
 
 
 🌍 Passionate about exploring new technology and sharing insights on my blog 👉 [cybarlab.com](http://cybarlab.com)
