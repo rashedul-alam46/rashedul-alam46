@@ -1,15 +1,15 @@
 
 ## 👨‍💻 Welcome to My Code World!
 
-Passionate backend-focused Full Stack Software Engineer specializing in **.NET, SQL Server, and cloud-based solutions**. Experienced in building scalable, enterprise-grade applications, solving complex business problems, and turning ideas into robust software solutions.
+Passionate backend-focused **Full Stack Software Engineer** specializing in **.NET, SQL Server, and cloud-based solutions**. Experienced in building scalable, enterprise-grade applications, solving complex business problems, and turning ideas into robust software solutions.
 
 🔍 **Currently open to work** – if you're looking for a backend, full-stack, or technical leadership roles, let’s connect!
 
 
 🛠️ **Tech Stack I Work With:**
-- **Backend:** .NET Framework, .NET Core/.NET, C#, ASP.NET Web Forms, ASP.NET MVC, Blazor, Entity Framework, LINQ, ADO.NET
+- **Backend:** .NET/.NET Core, C#, ASP.NET Web Forms, ASP.NET MVC, Blazor, Entity Framework, LINQ
 - **Messaging:** SignalR, RabbitMQ
-- **Frontend:** Angular, React, Next.js, HTML, CSS, JavaScript, TypeScript, jQuery, jQueryUI, Razor
+- **Frontend:** Angular, React, Next.js, HTML, JavaScript, TypeScript, jQuery
 - **Database:** SQL Server, MySQL, PostgreSQL, MongoDB
 - **APIs & Integrations:** REST, GraphQL, gRPC, Google Maps, PayPal, Authorize.net
 - **Reporting & ETL:** SSRS, SSIS, JasperReports, Google Chart, Highcharts
