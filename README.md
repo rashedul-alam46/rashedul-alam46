@@ -30,22 +30,3 @@ Passionate backend-focused **Full Stack Software Engineer** specializing in **.N
 - Email: rashed464[at]outlook.com
 
 
-## 🛠️ My Top Languages
-
-![Top Langs](https://your-github-stats.vercel.app/api/top-langs/?username=rashedul-alam46&layout=compact&v=2)
-
-
-
-
-
-
-
----
-
-## 📊 GitHub Stats
-
-![Rashedul's GitHub Stats](https://github-readme-stats-github-readme-stats-team.vercel.app/api?username=rashedul-alam46&show_icons=true&count_private=true&theme=radical)
-
----
-
-
