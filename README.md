@@ -32,7 +32,7 @@ Passionate backend-focused **Full Stack Software Engineer** specializing in **.N
 
 ## 🛠️ My Top Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rashedul-alam46&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rashedul-alam46&layout=compact)
 
 
 
